@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
 
   <channel>
     <title>The Nyxtape</title>
     <link>https://nyxtape.github.io/The-Nyxtape/</link>
-    <language>fr</language>
-    <itunes:author>The Nyxtape</itunes:author>
-    <itunes:summary>The Nyxtape – Un voyage musical à travers la house et la techno, directement issu du digging passionné de MisterYo, John McClain et leurs amis. Depuis plus de 20 ans, ils explorent les pépites de la musique électronique pour vous offrir une sélection pointue et immersive.</itunes:summary>
-    <description>Émission en provenance du sud de la France. Bonne écoute ! Retrouvez toutes les actualités sur linktr.ee/thenyxtape</description>
-    
-    <itunes:explicit>no</itunes:explicit>
-
     <atom:link href="https://nyxtape.github.io/The-Nyxtape/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>fr</language>
+    <copyright>© 2025 The Nyxtape</copyright>
+    <itunes:author>The Nyxtape</itunes:author>
+    <itunes:summary>The Nyxtape – Un voyage musical à travers la house et la techno, directement issu du digging passionné de MisterYo, John McClain et leurs amis.</itunes:summary>
+    <description>The Nyxtape – Un voyage musical à travers la house et la techno, directement issu du digging passionné de MisterYo, John McClain et leurs amis.</description>
+    <itunes:owner>
+      <itunes:name>The Nyxtape</itunes:name>
+      <itunes:email>ton@email.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Nyxtape%20Apple%20Podcast%20Couv%204.png?raw=true"/>
-    <itunes:category text="Music"/>
-    
-    <podcast:locked>yes</podcast:locked>
+    <itunes:category text="Music">
+      <itunes:category text="Electronic"/>
+    </itunes:category>
 
     <item>
       <title>The MisterYo Nyxtape #1</title>
+      <itunes:summary>Pour cette première édition, MisterYo, le fondateur de The Nyxtape, vous invite à un voyage musical à travers les continents, explorant la richesse de la house dans ses multiples facettes.</itunes:summary>
       <description>Pour cette première édition, MisterYo, le fondateur de The Nyxtape, vous invite à un voyage musical à travers les continents, explorant la richesse de la house dans ses multiples facettes.</description>
-      <itunes:author>The Nyxtape</itunes:author>
       <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://nyxtape.github.io/The-Nyxtape/The-MisterYo-Nyxtape-1.mp3</guid>
-      <enclosure url="https://nyxtape.github.io/The-Nyxtape/The-MisterYo-Nyxtape-1.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://github.com/Nyxtape/The-Nyxtape/raw/refs/heads/main/episodes/The%20MisterYo%20Nyxtape%20%231.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://github.com/Nyxtape/The-Nyxtape/raw/refs/heads/main/episodes/The%20MisterYo%20Nyxtape%20%231.mp3</guid>
+      <itunes:duration>3600</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
   </channel>
 </rss>
