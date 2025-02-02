@@ -12,7 +12,7 @@
     <itunes:summary>The Nyxtape – Un voyage musical à travers la house et la techno, directement issu du digging passionné de MisterYo, John McClain et leurs amis. Depuis plus de 20 ans, ils explorent les pépites de la musique électronique pour vous offrir une sélection pointue et immersive.</itunes:summary>
     <description>Émission en provenance du sud de la France. Bonne écoute ! Retrouvez toutes les actualités sur linktr.ee/thenyxtape</description>
     
-    <itunes:explicit>no</itunes:explicit> <!-- Placé juste après les métadonnées principales -->
+    <itunes:explicit>no</itunes:explicit>
 
     <atom:link href="https://nyxtape.github.io/The-Nyxtape/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Nyxtape%20Apple%20Podcast%20Couv%204.png?raw=true"/>
