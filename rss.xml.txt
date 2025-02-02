@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    <channel>
+        <title>The Nyxtape</title>
+        <link>https://nyxtape.github.io/The-Nyxtape/</link>
+        <description>The Nyxtape – Un voyage musical à travers la house et la techno, directement issu du digging passionné de MisterYo, John McClain et leurs amis. Depuis plus de 20 ans, ils explorent les pépites de la musique électronique pour vous offrir une sélection pointue et immersive.</description>
+        <language>fr</language>
+        <atom:link href="https://nyxtape.github.io/The-Nyxtape/rss.xml" rel="self" type="application/rss+xml"/>
+        <itunes:author>The Nyxtape</itunes:author>
+        <itunes:summary>The Nyxtape – Un voyage musical à travers la house et la techno, directement issu du digging passionné de MisterYo, John McClain et leurs amis.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>The Nyxtape</itunes:name>
+        </itunes:owner>
+        <itunes:category text="Music"/>
+        <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Nyxtape%20Apple%20Podcast%20Couv%204.png?raw=true"/>
+        <itunes:explicit>no</itunes:explicit>
+        <podcast:locked>no</podcast:locked>
+
+        <item>
+            <title>The MisterYo Nyxtape #1</title>
+            <description>Pour cette première édition, MisterYo, le fondateur de The Nyxtape, vous invite à un voyage musical à travers les continents, explorant la richesse de la house dans ses multiples facettes.</description>
+            <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://nyxtape.github.io/The-Nyxtape/The%20MisterYo%20Nyxtape%20%231.mp3" type="audio/mpeg" length="0"/>
+            <guid isPermaLink="false">https://nyxtape.github.io/The-Nyxtape/The%20MisterYo%20Nyxtape%20%231.mp3</guid>
+            <itunes:duration>3600</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
+</rss>
