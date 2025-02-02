@@ -22,16 +22,20 @@
     <itunes:category text="Music">
       <itunes:category text="Electronic"/>
     </itunes:category>
+    <lastBuildDate>Sat, 01 Feb 2025 12:00:00 GMT</lastBuildDate>
 
+    <!-- Épisode 1 -->
     <item>
       <title>The MisterYo Nyxtape #1</title>
       <itunes:summary>Pour cette première édition, MisterYo, le fondateur de The Nyxtape, vous invite à un voyage musical à travers les continents, explorant la richesse de la house dans ses multiples facettes.</itunes:summary>
       <description>Pour cette première édition, MisterYo, le fondateur de The Nyxtape, vous invite à un voyage musical à travers les continents, explorant la richesse de la house dans ses multiples facettes.</description>
       <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
       <enclosure url="https://github.com/Nyxtape/The-Nyxtape/raw/refs/heads/main/episodes/The%20MisterYo%20Nyxtape%20%231.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://github.com/Nyxtape/The-Nyxtape/raw/refs/heads/main/episodes/The%20MisterYo%20Nyxtape%20%231.mp3</guid>
+      <guid isPermaLink="false">ep1-2025-02-01</guid>
       <itunes:duration>3600</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
 
   </channel>
