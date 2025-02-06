@@ -36,6 +36,7 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Podcast%20001%201500x1500-01.png?raw=true"/>
     </item>
 
   </channel>
