@@ -22,7 +22,7 @@
     <itunes:category text="Music">
       <itunes:category text="Electronic"/>
     </itunes:category>
-    <lastBuildDate>Sat, 01 Feb 2025 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2025 12:00:00 GMT</lastBuildDate>
 
     <!-- Épisode 1 -->
     <item>
@@ -37,6 +37,21 @@
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Podcast%20001%201500x1500-01.png?raw=true"/>
+    </item>
+
+    <!-- Épisode 2 -->
+    <item>
+      <title>The MisterYo Nyxtape #2</title>
+      <itunes:summary>Un mix éclectique signé MisterYo, explorant la house sous toutes ses formes, avec des sonorités venues des quatre coins du monde.</itunes:summary>
+      <description>Dans cette seconde édition, MisterYo nous embarque pour un voyage éclectique à travers la house et ses innombrables sous-genres. Chaque continent est représenté, chaque influence sublimée, dans un mix où les sonorités s'entremêlent et se répondent. Au programme : Counter Plan, Osunlade, Chez Damier, Stacey Pullen, Monkey Safari, Rawb Boss, NTFO, Loni Clark, Timmy Regisford, Doza, Beanfield, Bajka, Ripperton, Tommy Bones, Caiiro, Cee ElAssaad, Jerome Sydenham, Mozambo, DJ Oji, Maski Morii, Karizma, Two Soul Fusion, Osfur, Wahm, Djulz, Kasango, Floyd Lavine, Culoe De Song, Nonfiction, &Lez, Cioz, Yet More, Tiger Stripes, Prince et Kenny Larkin.</description>
+      <pubDate>Tue, 14 May 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/the-mister-yo-nyxtape-2/The%20MisterYo%20Nyxtape%20%232.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep2-2025-05-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Podcast%20002%201500x1500-01.png?raw=true"/>
     </item>
 
   </channel>
