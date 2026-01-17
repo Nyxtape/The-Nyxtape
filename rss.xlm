@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+  <channel>
+    <title>The Nyxtape</title>
+    <link>https://nyxtape.github.io/The-Nyxtape/</link>
+    <atom:link href="https://nyxtape.github.io/The-Nyxtape/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>fr</language>
+    <copyright>© 2025 The Nyxtape</copyright>
+
+    <itunes:author>The Nyxtape</itunes:author>
+    <itunes:summary>
+      The Nyxtape – Un voyage musical à travers la house et la techno, directement issu du digging passionné de MisterYo, John McClain et leurs amis.
+    </itunes:summary>
+    <description>
+      The Nyxtape – Un voyage musical à travers la house et la techno, directement issu du digging passionné de MisterYo, John McClain et leurs amis.
+    </description>
+
+    <itunes:owner>
+      <itunes:name>The Nyxtape</itunes:name>
+      <itunes:email>nyxtape@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:explicit>no</itunes:explicit>
+
+    <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Nyxtape%20Apple%20Podcast%20Couv%204.png?raw=true"/>
+
+    <itunes:category text="Music">
+      <itunes:category text="Electronic"/>
+    </itunes:category>
+
+    <lastBuildDate>Mon, 10 Jun 2025 12:00:00 GMT</lastBuildDate>
+
+    <!-- ================= ÉPISODE 1 ================= -->
+    <item>
+      <title>The MisterYo Nyxtape #1</title>
+      <itunes:summary>
+        Pour cette première édition, MisterYo vous invite à un voyage musical à travers les continents, explorant la richesse de la house dans ses multiples facettes.
+      </itunes:summary>
+      <description>
+        Pour cette première édition, MisterYo, le fondateur de The Nyxtape, vous invite à un voyage musical à travers les continents, explorant la richesse de la house dans ses multiples facettes.
+      </description>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://github.com/Nyxtape/The-Nyxtape/raw/refs/heads/main/episodes/The%20MisterYo%20Nyxtape%20%231.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <guid isPermaLink="false">ep1-2025-02-01</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Podcast%20001%201500x1500-01.png?raw=true"/>
+    </item>
+
+    <!-- ================= ÉPISODE 2 ================= -->
+    <item>
+      <title>The MisterYo Nyxtape #2</title>
+      <itunes:summary>
+        Un mix éclectique signé MisterYo, explorant la house sous toutes ses formes, avec des sonorités venues des quatre coins du monde.
+      </itunes:summary>
+      <description>
+        Dans cette seconde édition, MisterYo nous embarque pour un voyage éclectique à travers la house et ses innombrables sous-genres. Chaque continent est représenté, chaque influence sublimée. Au programme : Counter Plan, Osunlade, Chez Damier, Stacey Pullen, Monkey Safari, Rawb Boss, NTFO, Loni Clark, Timmy Regisford, Doza, Beanfield, Bajka, Ripperton, Tommy Bones, Caiiro, Cee ElAssaad, Jerome Sydenham, Mozambo, DJ Oji, Maski Morii, Karizma, Two Soul Fusion, Osfur, Wahm, Djulz, Kasango, Floyd Lavine, Culoe De Song, Nonfiction, &Lez, Cioz, Yet More, Tiger Stripes, Prince et Kenny Larkin.
+      </description>
+      <pubDate>Tue, 14 May 2025 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://archive.org/download/the-mister-yo-nyxtape-2/The%20MisterYo%20Nyxtape%20%232.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <guid isPermaLink="false">ep2-2025-05-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Podcast%20002%201500x1500-01.png?raw=true"/>
+    </item>
+
+    <!-- ================= ÉPISODE 3 ================= -->
+    <item>
+      <title>The MisterYo Nyxtape #3</title>
+      <itunes:summary>
+        Pour la 3e édition, MisterYo oscille entre deep house, afro house et Detroit, avec une sélection élégante et intemporelle.
+      </itunes:summary>
+      <description>
+        Pour la 3e édition, MisterYo oscille entre deep house, afro house et Detroit.
+        Au programme : Pépé Bradock, Caiiro, Depeche Mode, Masaki Morii, Black Coffee,
+        Moloko, Boo Williams, Karizma, Josh Wink, Jovonn, Freaks, Bocasonic,
+        Somersault, Byron Stingily, Theo Walbeck, Osunlade, DJ Hell, George Morel,
+        Danny Tenaglia, Blaze, &Me, Keinemusic, Hyenah, DJ Spen, Demuir,
+        Christos Fourkis, Timmy Regisford, Claude Monnet, Afshin et Heiko Laux.
+      </description>
+      <pubDate>Mon, 10 Jun 2025 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://archive.org/download/th-nyxtape-podcast-3-320/Th%20Nyxtape%20Podcast%20%233%20%28320%29.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <guid isPermaLink="false">ep3-2025-06-10</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://github.com/Nyxtape/The-Nyxtape/blob/main/jacket/Podcast%20003%201500x1500-01.png?raw=true"/>
+    </item>
+
+  </channel>
+</rss>
